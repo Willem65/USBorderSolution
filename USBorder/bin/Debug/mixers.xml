@@ -1,0 +1,66 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <USBnames>
+    <PID_1402_Airlite>CH4 USB1 (Program)</PID_1402_Airlite>
+    <PID_2402_Airence>Atmel 03EB 2402</PID_2402_Airence>
+    <PID_2404_Airlab_2_USB>Atmel 03EB 2404</PID_2404_Airlab_2_USB>
+    <PID_2404_Airlab_4_USB>Atmel 03EB 2404</PID_2404_Airlab_4_USB>
+    <PID_1404_Webstation>CH3 USB1 (Voice Track)</PID_1404_Webstation>
+  </USBnames>
+  <USBnames>
+    <PID_1402_Airlite>CH5 USB2 (Aux Send)</PID_1402_Airlite>
+    <PID_2402_Airence>CH1 USB1 (Program Non stop)</PID_2402_Airence>
+    <PID_2404_Airlab_2_USB>USB1 (Program)</PID_2404_Airlab_2_USB>
+    <PID_2404_Airlab_4_USB>USB1 (Program)</PID_2404_Airlab_4_USB>
+    <PID_1404_Webstation>CH4 USB2 (Clean Feed)</PID_1404_Webstation>
+  </USBnames>
+  <USBnames>
+    <PID_1402_Airlite>CH6 USB3 (Voice Track)</PID_1402_Airlite>
+    <PID_2402_Airence>CH2 USB2 (Program Post)</PID_2402_Airence>
+    <PID_2404_Airlab_2_USB>USB2 (Sub Send)</PID_2404_Airlab_2_USB>
+    <PID_2404_Airlab_4_USB>USB2 (Program)</PID_2404_Airlab_4_USB>
+    <PID_1404_Webstation>CH5 USB3 (Program)</PID_1404_Webstation>
+  </USBnames>
+  <USBnames>
+    <PID_1402_Airlite>CH7 USB4 (Air Input)</PID_1402_Airlite>
+    <PID_2402_Airence>CH3 USB3 (Sub Send)</PID_2402_Airence>
+    <PID_2404_Airlab_2_USB>-</PID_2404_Airlab_2_USB>
+    <PID_2404_Airlab_4_USB>USB3 (Sub Send)</PID_2404_Airlab_4_USB>
+    <PID_1404_Webstation>CM119 Voip</PID_1404_Webstation>
+  </USBnames>
+  <USBnames>
+    <PID_1402_Airlite>-</PID_1402_Airlite>
+    <PID_2402_Airence>CH4 USB4 (Aux Send)</PID_2402_Airence>
+    <PID_2404_Airlab_2_USB>-</PID_2404_Airlab_2_USB>
+    <PID_2404_Airlab_4_USB>USB4 (Sub Send)</PID_2404_Airlab_4_USB>
+    <PID_1404_Webstation>Atmel 0805 1404</PID_1404_Webstation>
+  </USBnames>
+  <USBnames>
+    <PID_1402_Airlite>-</PID_1402_Airlite>
+    <PID_2402_Airence>FTDI 232 0403 6001</PID_2402_Airence>
+    <PID_2404_Airlab_2_USB>FTDI 232 0403 6001</PID_2404_Airlab_2_USB>
+    <PID_2404_Airlab_4_USB>FTDI 232 0403 6001</PID_2404_Airlab_4_USB>
+    <PID_1404_Webstation>-</PID_1404_Webstation>
+  </USBnames>
+  <USBnames>
+    <PID_1402_Airlite>Atmel 0805 1402</PID_1402_Airlite>
+    <PID_2402_Airence>-</PID_2402_Airence>
+    <PID_2404_Airlab_2_USB>-</PID_2404_Airlab_2_USB>
+    <PID_2404_Airlab_4_USB>-</PID_2404_Airlab_4_USB>
+    <PID_1404_Webstation>-</PID_1404_Webstation>
+  </USBnames>
+  <USBnames>
+    <PID_1402_Airlite />
+    <PID_2402_Airence />
+    <PID_2404_Airlab_2_USB />
+    <PID_2404_Airlab_4_USB />
+    <PID_1404_Webstation />
+  </USBnames>
+  <USBnames>
+    <PID_1402_Airlite />
+    <PID_2402_Airence />
+    <PID_2404_Airlab_2_USB />
+    <PID_2404_Airlab_4_USB />
+    <PID_1404_Webstation />
+  </USBnames>
+</DocumentElement>

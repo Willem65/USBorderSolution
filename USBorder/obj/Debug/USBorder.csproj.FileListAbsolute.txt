@@ -1,0 +1,26 @@
+C:\Users\willem\Documents\Visual Studio 2017\Projects\USBorderSolution\USBorder\bin\Debug\USBorder.exe.config
+C:\Users\willem\Documents\Visual Studio 2017\Projects\USBorderSolution\USBorder\bin\Debug\USBorder.exe
+C:\Users\willem\Documents\Visual Studio 2017\Projects\USBorderSolution\USBorder\bin\Debug\USBorder.pdb
+C:\Users\willem\Documents\Visual Studio 2017\Projects\USBorderSolution\USBorder\bin\Debug\OrderUSB.dll
+C:\Users\willem\Documents\Visual Studio 2017\Projects\USBorderSolution\USBorder\bin\Debug\OrderUSB.pdb
+C:\Users\willem\Documents\Visual Studio 2017\Projects\USBorderSolution\USBorder\obj\Debug\USBorder.csprojAssemblyReference.cache
+C:\Users\willem\Documents\Visual Studio 2017\Projects\USBorderSolution\USBorder\obj\Debug\USBorder.Form1.resources
+C:\Users\willem\Documents\Visual Studio 2017\Projects\USBorderSolution\USBorder\obj\Debug\USBorder.Properties.Resources.resources
+C:\Users\willem\Documents\Visual Studio 2017\Projects\USBorderSolution\USBorder\obj\Debug\USBorder.csproj.GenerateResource.cache
+C:\Users\willem\Documents\Visual Studio 2017\Projects\USBorderSolution\USBorder\obj\Debug\USBorder.csproj.CoreCompileInputs.cache
+C:\Users\willem\Documents\Visual Studio 2017\Projects\USBorderSolution\USBorder\obj\Debug\USBorder.csproj.CopyComplete
+C:\Users\willem\Documents\Visual Studio 2017\Projects\USBorderSolution\USBorder\obj\Debug\USBorder.exe
+C:\Users\willem\Documents\Visual Studio 2017\Projects\USBorderSolution\USBorder\obj\Debug\USBorder.pdb
+C:\Users\willem\Desktop\USBorderSolution\USBorder\bin\Debug\USBorder.exe.config
+C:\Users\willem\Desktop\USBorderSolution\USBorder\bin\Debug\USBorder.exe
+C:\Users\willem\Desktop\USBorderSolution\USBorder\bin\Debug\USBorder.pdb
+C:\Users\willem\Desktop\USBorderSolution\USBorder\bin\Debug\OrderUSB.dll
+C:\Users\willem\Desktop\USBorderSolution\USBorder\bin\Debug\OrderUSB.pdb
+C:\Users\willem\Desktop\USBorderSolution\USBorder\obj\Debug\USBorder.csprojAssemblyReference.cache
+C:\Users\willem\Desktop\USBorderSolution\USBorder\obj\Debug\USBorder.Form1.resources
+C:\Users\willem\Desktop\USBorderSolution\USBorder\obj\Debug\USBorder.Properties.Resources.resources
+C:\Users\willem\Desktop\USBorderSolution\USBorder\obj\Debug\USBorder.csproj.GenerateResource.cache
+C:\Users\willem\Desktop\USBorderSolution\USBorder\obj\Debug\USBorder.csproj.CoreCompileInputs.cache
+C:\Users\willem\Desktop\USBorderSolution\USBorder\obj\Debug\USBorder.csproj.CopyComplete
+C:\Users\willem\Desktop\USBorderSolution\USBorder\obj\Debug\USBorder.exe
+C:\Users\willem\Desktop\USBorderSolution\USBorder\obj\Debug\USBorder.pdb

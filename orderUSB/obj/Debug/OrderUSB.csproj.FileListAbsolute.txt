@@ -1,0 +1,12 @@
+C:\Users\willem\Documents\Visual Studio 2017\Projects\USBorderSolution\orderUSB\bin\Debug\OrderUSB.dll
+C:\Users\willem\Documents\Visual Studio 2017\Projects\USBorderSolution\orderUSB\bin\Debug\OrderUSB.pdb
+C:\Users\willem\Documents\Visual Studio 2017\Projects\USBorderSolution\orderUSB\obj\Debug\OrderUSB.csproj.CoreCompileInputs.cache
+C:\Users\willem\Documents\Visual Studio 2017\Projects\USBorderSolution\orderUSB\obj\Debug\OrderUSB.dll
+C:\Users\willem\Documents\Visual Studio 2017\Projects\USBorderSolution\orderUSB\obj\Debug\OrderUSB.pdb
+C:\Users\willem\Documents\Visual Studio 2017\Projects\USBorderSolution\orderUSB\obj\Debug\OrderUSB.csprojAssemblyReference.cache
+C:\Users\willem\Desktop\USBorderSolution\orderUSB\bin\Debug\OrderUSB.dll
+C:\Users\willem\Desktop\USBorderSolution\orderUSB\bin\Debug\OrderUSB.pdb
+C:\Users\willem\Desktop\USBorderSolution\orderUSB\obj\Debug\OrderUSB.csproj.CoreCompileInputs.cache
+C:\Users\willem\Desktop\USBorderSolution\orderUSB\obj\Debug\OrderUSB.dll
+C:\Users\willem\Desktop\USBorderSolution\orderUSB\obj\Debug\OrderUSB.pdb
+C:\Users\willem\Desktop\USBorderSolution\orderUSB\obj\Debug\OrderUSB.csprojAssemblyReference.cache
