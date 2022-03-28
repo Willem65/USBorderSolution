@@ -1,26 +1,25 @@
-﻿//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-//
-//  1 Start het programma
-//
-//  2 Als er een mixer gevonden wordt , dan word de kolom achtergroend groen.
-//
-//  3 Als de volgorde niet klopt met wat er in de kolom staat wordt het register aangepast voor de USB audio volgorde.
-//    hiervoor zal de computer 2 keer opnieuw moeten worden opgestart dmv dit programmaatje
-//
-//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-//
-//  ClearReset.bat Deze batch file gooit alle audio PID codecs eruit dmv uvd.exe <---- is USBdeview
-//
-//  Reboot.bat Deze batch file reboot de PC na 5 seconden
-//
-//  mixers.xml Hierin staan alle mixer usb volgorde in opgeslagen
-//
-//  Settings.xml Houdt bij hoeveel keer de PC is opgestart
-//
-//  mixersbk.xml Om een default volgorde terug te kunnen zetten
-//
-//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+﻿/*******************************************************************
+
+  1 Start het programma
+
+  2 Als er een mixer gevonden wordt , dan word de kolom achtergroend groen.
+
+  3 Als de volgorde niet klopt met wat er in de kolom staat wordt het register aangepast voor de USB audio volgorde.
+    hiervoor zal de computer 2 keer opnieuw moeten worden opgestart dmv dit programmaatje
+
+
+
+  ClearReset.bat   Deze batch file gooit alle audio PID codecs eruit dmv uvd.exe <---- is USBdeview
+
+  Reboot.bat       Deze batch file reboot de PC na 5 seconden
+
+  mixers.xml       Hierin staan alle mixer usb volgorde in opgeslagen
+
+  Settings.xml     Houdt bij hoeveel keer de PC is opgestart
+
+  mixersbk.xml     Om een default volgorde terug te kunnen zetten
+
+********************************************************************/
 
 
 using OrderUSB;
